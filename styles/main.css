@@ -14,3 +14,9 @@ p
 	color: #263238;		
 	padding: 0px 8px 0px 8px;
 }
+
+.special
+{
+	background: cyan;
+	color: gray;
+}
